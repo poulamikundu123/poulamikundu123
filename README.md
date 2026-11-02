@@ -2,12 +2,12 @@
   <img src="./assets/header_banner.png" alt="Welcome to my Digital Garden" width="100%">
 </p>
 
-### 🍃 About Me
+### 🌿 About Me
 Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, computer vision, and building impactful applications**. I love working on real-world problems, conducting research, and participating in hackathons.
 
 ---
 
-### ⚔️ My Toolbox
+### 🛠️ My Toolbox
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0D1912?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
@@ -27,7 +27,7 @@ Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, comp
 
 ---
 
-### 🍃 Featured Projects
+### 🌿 Featured Projects
 
 <table width="100%">
   <tr>
@@ -106,14 +106,14 @@ Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, comp
 
 ---
 
-### 🍃 Little Things About Me
+### 🌿 Little Things About Me
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top" style="padding: 16px;">
+    <td width="100%" valign="top">
       <img align="right" width="280" src="./assets/girl_avatar_transparent.png" alt="Poulami" />
       
-      <h4>🍃 <i>Currently Exploring</i></h4>
+      <h4>🌿 <i>Currently Exploring</i></h4>
       <p>
         <img src="https://img.shields.io/badge/Deep_Learning-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Deep Learning" />
         <img src="https://img.shields.io/badge/Computer_Vision-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Computer Vision" />
@@ -125,19 +125,19 @@ Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, comp
 
       <h4>🏆 <i>Achievements & Milestones</i></h4>
       <p>
-        🟢 &nbsp;<b>Smart India Hackathon (SIH 2025)</b> — 2nd Runner-Up<br/>
-        🟢 &nbsp;<b>SIH 2026</b> — Internal Round Finalist<br/>
-        🟢 &nbsp;<b>Completed GenAI Specialization</b>
+        • <b>Smart India Hackathon (SIH 2025)</b> — 2nd Runner-Up<br/>
+        • <b>SIH 2026</b> — Internal Round Finalist<br/>
+        • <b>Completed GenAI Specialization</b>
       </p>
 
       <br/>
 
       <h4>☕ <i>Beyond Code & Hobbies</i></h4>
       <p>
-        📖 &nbsp;<b>Reading</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        📝 &nbsp;<b>Journaling</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        🎨 &nbsp;<b>Designing (Canva)</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        🎧 &nbsp;<b>Music & Lofi</b>
+        📖 <b>Reading</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        📝 <b>Journaling</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        🎨 <b>Designing (Canva)</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        🎧 <b>Music & Lofi</b>
       </p>
       
       <img src="./assets/spacer.png" width="1000" height="1" alt="" />
