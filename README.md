@@ -2,8 +2,17 @@
   <img src="./assets/dino_header.gif" alt="Google Dino Runner" width="100%">
 </p>
 
-### 🌿 About Me
-Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, computer vision, and building impactful applications**. I love working on real-world problems, conducting research, and participating in hackathons.
+## 🌿 About Me
+
+### Hi, I'm Poulami Kundu.
+
+I'm a Computer Science undergraduate with a curiosity for intelligent systems and a passion for building things that matter.
+
+My interests lie at the intersection of **AI/ML, Computer Vision, and Web Development**. From experimenting with deep learning models to developing full-stack applications, I enjoy turning ideas into practical solutions.
+
+Currently exploring new possibilities through research, hands-on projects, and hackathons — always learning, always building.
+
+`AI/ML` · `Computer Vision` · `Web Development` · `Research`
 
 ---
 
