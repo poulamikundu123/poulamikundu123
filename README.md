@@ -25,13 +25,20 @@ Currently exploring new possibilities through research, hands-on projects, and h
   <img src="https://img.shields.io/badge/React-0D1912?style=for-the-badge&logo=react&logoColor=D4AF37" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-0D1912?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37" alt="Next.js" />
   <img src="https://img.shields.io/badge/FastAPI-0D1912?style=for-the-badge&logo=fastapi&logoColor=D4AF37" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Tailwind-0D1912?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" alt="Tailwind" />
   <br/>
   <img src="https://img.shields.io/badge/PyTorch-0D1912?style=for-the-badge&logo=pytorch&logoColor=D4AF37" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-0D1912?style=for-the-badge&logo=tensorflow&logoColor=D4AF37" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-0D1912?style=for-the-badge&logo=opencv&logoColor=D4AF37" alt="OpenCV" />
   <img src="https://img.shields.io/badge/XGBoost-0D1912?style=for-the-badge&logo=xgboost&logoColor=D4AF37" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/SQLite-0D1912?style=for-the-badge&logo=sqlite&logoColor=D4AF37" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Tailwind-0D1912?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-0D1912?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Git & GitHub" />
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1912?style=for-the-badge&logo=postgresql&logoColor=D4AF37" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-0D1912?style=for-the-badge&logo=sqlite&logoColor=D4AF37" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Jinja2-0D1912?style=for-the-badge&logo=jinja&logoColor=D4AF37" alt="Jinja2" />
+  <img src="https://img.shields.io/badge/JWT-0D1912?style=for-the-badge&logo=jsonwebtokens&logoColor=D4AF37" alt="JWT" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-0D1912?style=for-the-badge&logo=oauth&logoColor=D4AF37" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/Auth0-0D1912?style=for-the-badge&logo=auth0&logoColor=D4AF37" alt="Auth0" />
 </p>
 
 ---
