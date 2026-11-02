@@ -152,18 +152,23 @@ Developing end-to-end multimodal architectures fusing facial visual cues with ph
 
 ---
 
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+
 <img src="./assets/sections/header_01_exploring.svg" width="100%" alt="Currently Exploring" />
 
 <p align="left">
-  <img src="./assets/pills/tag_deep_learning.svg" height="34" alt="Deep Learning" /> &nbsp;
-  <img src="./assets/pills/tag_computer_vision.svg" height="34" alt="Computer Vision" /> &nbsp;
-  <img src="./assets/pills/tag_llms_genai.svg" height="34" alt="LLMs & GenAI" /> &nbsp;
-  <img src="./assets/pills/tag_fullstack.svg" height="34" alt="Full-Stack Development" />
+  <img src="./assets/pills/tag_deep_learning.svg" height="32" alt="Deep Learning" /> &nbsp;
+  <img src="./assets/pills/tag_computer_vision.svg" height="32" alt="Computer Vision" />
+  <br/><br/>
+  <img src="./assets/pills/tag_llms_genai.svg" height="32" alt="LLMs &amp; GenAI" /> &nbsp;
+  <img src="./assets/pills/tag_fullstack.svg" height="32" alt="Full-Stack Development" />
 </p>
 
 <br/>
 
-<img src="./assets/sections/header_02_achievements.svg" width="100%" alt="Achievements & Milestones" />
+<img src="./assets/sections/header_02_achievements.svg" width="100%" alt="Achievements &amp; Milestones" />
 
 <table width="100%">
   <tr>
@@ -185,11 +190,19 @@ Developing end-to-end multimodal architectures fusing facial visual cues with ph
 
 <br/>
 
-<img src="./assets/sections/header_03_hobbies.svg" width="100%" alt="Beyond Code & Hobbies" />
+<img src="./assets/sections/header_03_hobbies.svg" width="100%" alt="Beyond Code &amp; Hobbies" />
 
 <p align="left">
-  <img src="./assets/pills/hobby_reading.svg" height="32" alt="Reading" /> &nbsp;
-  <img src="./assets/pills/hobby_journaling.svg" height="32" alt="Journaling" /> &nbsp;
-  <img src="./assets/pills/hobby_designing.svg" height="32" alt="Designing (Canva)" /> &nbsp;
-  <img src="./assets/pills/hobby_music.svg" height="32" alt="Music & Lofi" />
+  <img src="./assets/pills/hobby_reading.svg" height="30" alt="Reading" /> &nbsp;
+  <img src="./assets/pills/hobby_journaling.svg" height="30" alt="Journaling" />
+  <br/><br/>
+  <img src="./assets/pills/hobby_designing.svg" height="30" alt="Designing (Canva)" /> &nbsp;
+  <img src="./assets/pills/hobby_music.svg" height="30" alt="Music &amp; Lofi" />
 </p>
+
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./assets/girl_avatar_transparent.png" width="100%" alt="Poulami" />
+    </td>
+  </tr>
+</table>

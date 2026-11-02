@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="36" viewBox="0 0 800 36" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="36" viewBox="0 0 520 36" fill="none">
   <rect x="1" y="2" width="32" height="32" rx="8" fill="#15251B" stroke="#30363D" stroke-width="1.2"/>
   <path d="M17 9c0 4.4-3.6 8-8 8 4.4 0 8 3.6 8 8 0-4.4 3.6-8 8-8-4.4 0-8-3.6-8-8z" fill="#899B79"/>
-  <text x="46" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" font-style="italic" fill="#E6EDF3">Currently Exploring</text>
-  <line x1="218" y1="18" x2="760" y2="18" stroke="#30363D" stroke-width="1"/>
-  <text x="795" y="23" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#899B79">01</text>
+  <text x="44" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" font-style="italic" fill="#E6EDF3">Currently Exploring</text>
+  <line x1="212" y1="18" x2="480" y2="18" stroke="#30363D" stroke-width="1"/>
+  <text x="515" y="23" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#899B79">01</text>
 </svg>
