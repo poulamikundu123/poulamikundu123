@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/dino_header.gif" alt="Google Dino Runner" width="100%" style="max-width: 100%; image-rendering: pixelated; display: block;">
+  <img src="./assets/dino_header.gif" alt="Google Dino Runner" width="100%" style="max-width: 100%;height: 130px; image-rendering: pixelated; display: block;">
 </p>
 
 
