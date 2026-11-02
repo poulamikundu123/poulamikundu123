@@ -108,31 +108,6 @@ Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, comp
 
 ### 🍃 Little Things About Me
 
-<table width="100%">
-  <tr>
-    <td valign="middle" style="padding: 24px;">
-      <img align="right" width="240" src="./assets/girl_avatar_transparent.png" alt="Poulami" />
-      <div align="center">
-        <h4>✨ <b>Currently Exploring</b></h4>
-        <p>
-          <img src="https://img.shields.io/badge/Deep_Learning-0D1912?style=flat-square&logoColor=D4AF37&color=1B2F22" alt="Deep Learning" />
-          <img src="https://img.shields.io/badge/Computer_Vision-0D1912?style=flat-square&logoColor=D4AF37&color=1B2F22" alt="Computer Vision" />
-          <img src="https://img.shields.io/badge/LLMs_%26_GenAI-0D1912?style=flat-square&logoColor=D4AF37&color=1B2F22" alt="LLMs" />
-          <img src="https://img.shields.io/badge/Full--Stack_Dev-0D1912?style=flat-square&logoColor=D4AF37&color=1B2F22" alt="Full Stack" />
-        </p>
-        <br/>
-        <h4>🏆 <b>Achievements & Milestones</b></h4>
-        <p>
-          🥇 <b>Smart India Hackathon (SIH 2025)</b> — 2nd Runner-Up<br/>
-          🎯 <b>SIH 2026</b> — Internal Round Finalist<br/>
-          📜 <b>Completed GenAI Specialization</b>
-        </p>
-        <br/>
-        <h4>☕ <b>Beyond Code & Hobbies</b></h4>
-        <p>
-          📚 <i>Reading</i> &nbsp;•&nbsp; ✍️ <i>Journaling</i> &nbsp;•&nbsp; 🎨 <i>Designing (Canva)</i> &nbsp;•&nbsp; 🎧 <i>Music & Lofi</i>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/little_things_card.png" width="100%" alt="Little Things About Me" />
+</p>
