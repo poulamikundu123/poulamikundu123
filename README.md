@@ -32,31 +32,10 @@ Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, comp
 <table width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/poulamikundu123/BHOOMI-SETU">
-        <img src="./assets/banner_bhoomi.jpg" width="100%" alt="BHOOMI-SETU" />
-      </a>
-      <br/><br/>
-      <h3 align="center"><b><a href="https://github.com/poulamikundu123/BHOOMI-SETU" style="color: #D4AF37; text-decoration: none;">🌱 BHOOMI-SETU</a></b></h3>
-      <p align="center">
-        Smart agricultural & land portal bridging rural farmers with digitized records.<br/>
-        Uses AI-driven analytics to optimize crop health and land resource allocation.
-      </p>
-      <p align="center">
-        <a href="https://github.com/poulamikundu123/BHOOMI-SETU">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-D4AF37?style=for-the-badge&logo=github&logoColor=000000" alt="View Repository" />
-        </a>
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
       <a href="https://github.com/poulamikundu123/GyanBridge">
-        <img src="./assets/banner_gyanbridge.jpg" width="100%" alt="GyanBridge" />
+        <img src="./assets/card_gyanbridge.png" width="100%" alt="GyanBridge" />
       </a>
       <br/><br/>
-      <h3 align="center"><b><a href="https://github.com/poulamikundu123/GyanBridge" style="color: #D4AF37; text-decoration: none;">🌉 GyanBridge</a></b></h3>
-      <p align="center">
-        Skill mapping and career placement portal tailored for AYUSH medical students.<br/>
-        Built for Smart India Hackathon featuring automated opportunity matching.
-      </p>
       <p align="center">
         <a href="https://github.com/poulamikundu123/GyanBridge">
           <img src="https://img.shields.io/badge/VIEW_REPOSITORY-D4AF37?style=for-the-badge&logo=github&logoColor=000000" alt="View Repository" />
@@ -64,17 +43,23 @@ Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, comp
       </p>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/poulamikundu123/hospital-hostage">
-        <img src="./assets/banner_hospital.jpg" width="100%" alt="hospital-hostage" />
+      <a href="https://github.com/poulamikundu123/BHOOMI-SETU">
+        <img src="./assets/card_bhoomi.png" width="100%" alt="Bhoomi Setu" />
       </a>
       <br/><br/>
-      <h3 align="center"><b><a href="https://github.com/poulamikundu123/hospital-hostage" style="color: #D4AF37; text-decoration: none;">🏥 hospital-hostage</a></b></h3>
       <p align="center">
-        Healthcare vulnerability scanner monitoring critical hospital network security.<br/>
-        Provides automated incident detection to prevent emergency medical system lockouts.
+        <a href="https://github.com/poulamikundu123/BHOOMI-SETU">
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-D4AF37?style=for-the-badge&logo=github&logoColor=000000" alt="View Repository" />
+        </a>
       </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/poulamikundu123/KMU-FED-emotion-detection">
+        <img src="./assets/card_kmufed.png" width="100%" alt="KMU-FED" />
+      </a>
+      <br/><br/>
       <p align="center">
-        <a href="https://github.com/poulamikundu123/hospital-hostage">
+        <a href="https://github.com/poulamikundu123/KMU-FED-emotion-detection">
           <img src="https://img.shields.io/badge/VIEW_REPOSITORY-D4AF37?style=for-the-badge&logo=github&logoColor=000000" alt="View Repository" />
         </a>
       </p>
@@ -124,7 +109,7 @@ Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, comp
 
 <br/>
 
-<h4>🏆 <i>  Achievements & Milestones</i></h4>
+<h4>🏆 <i>Achievements & Milestones</i></h4>
 <p>
       • <b>Smart India Hackathon (SIH 2025)</b> — 2nd Runner-Up<br/>
       • <b>SIH 2026</b> — Internal Round Finalist<br/>
