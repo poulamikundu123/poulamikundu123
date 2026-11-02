@@ -2,8 +2,7 @@
   <img src="./assets/dino_header.gif" alt="Google Dino Runner" width="100%" style="max-width: 100%;height: 200px; image-rendering: pixelated; display: block;">
 </p>
 
-
-## 🌿 About Me
+## <img src="./assets/icons/sprout.svg" width="22" height="22" valign="middle" /> About Me
 
 ### Hi, I'm Poulami Kundu.
 
@@ -17,7 +16,7 @@ Currently exploring new possibilities through research, hands-on projects, and h
 
 ---
 
-### 🛠️ My Toolbox
+### <img src="./assets/icons/tools.svg" width="20" height="20" valign="middle" /> My Toolbox
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0D1912?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
@@ -44,7 +43,7 @@ Currently exploring new possibilities through research, hands-on projects, and h
 
 ---
 
-### 🌿 Featured Projects
+### <img src="./assets/icons/folder.svg" width="20" height="20" valign="middle" /> Featured Projects
 
 <table width="100%">
   <tr>
@@ -86,12 +85,12 @@ Currently exploring new possibilities through research, hands-on projects, and h
 
 ---
 
-### 🔬 Research & Ongoing Work
+### <img src="./assets/icons/microscope.svg" width="20" height="20" valign="middle" /> Research & Ongoing Work
 
 <table width="100%">
 <tr>
 <td width="100%">
-<h4>🌿 <b>KMU-FED</b> &nbsp;·&nbsp; <i>Facial Emotion & Cognitive Stress Detection</i> <img src="https://img.shields.io/badge/Status-Active_Research-D4AF37?style=flat-square&color=16281D&labelColor=0D1912" align="right" alt="Active Research" /></h4>
+<h4><img src="./assets/icons/code.svg" width="18" height="18" valign="middle" /> &nbsp;<b>KMU-FED</b> &nbsp;·&nbsp; <i>Facial Emotion & Cognitive Stress Detection</i> <img src="https://img.shields.io/badge/Status-Active_Research-D4AF37?style=flat-square&color=16281D&labelColor=0D1912" align="right" alt="Active Research" /></h4>
 <p>
 Investigating subtle facial cue dynamics and micro-expressions under cognitive load for non-invasive stress detection and affective classification.
 </p>
@@ -104,7 +103,7 @@ Investigating subtle facial cue dynamics and micro-expressions under cognitive l
 </tr>
 <tr>
 <td width="100%">
-<h4>🌿 <b>RAF-DB</b> &nbsp;·&nbsp; <i>In-The-Wild Facial Expression Recognition</i> <img src="https://img.shields.io/badge/Status-Active_Research-D4AF37?style=flat-square&color=16281D&labelColor=0D1912" align="right" alt="Active Research" /></h4>
+<h4><img src="./assets/icons/layers.svg" width="18" height="18" valign="middle" /> &nbsp;<b>RAF-DB</b> &nbsp;·&nbsp; <i>In-The-Wild Facial Expression Recognition</i> <img src="https://img.shields.io/badge/Status-Active_Research-D4AF37?style=flat-square&color=16281D&labelColor=0D1912" align="right" alt="Active Research" /></h4>
 <p>
 Designing and evaluating a customized 4-layer Convolutional Neural Network (CNN) architecture optimized for robust feature extraction and emotion classification under real-world occlusions and pose variations.
 </p>
@@ -117,7 +116,7 @@ Designing and evaluating a customized 4-layer Convolutional Neural Network (CNN)
 </tr>
 <tr>
 <td width="100%">
-<h4>🌿 <b>Multimodal Stress Detection</b> &nbsp;·&nbsp; <i>Physiological & Behavioral Signal Fusion</i> <img src="https://img.shields.io/badge/Status-Under_Guidance-D4AF37?style=flat-square&color=16281D&labelColor=0D1912" align="right" alt="Under Guidance" /></h4>
+<h4><img src="./assets/icons/activity.svg" width="18" height="18" valign="middle" /> &nbsp;<b>Multimodal Stress Detection</b> &nbsp;·&nbsp; <i>Physiological & Behavioral Signal Fusion</i> <img src="https://img.shields.io/badge/Status-Under_Guidance-D4AF37?style=flat-square&color=16281D&labelColor=0D1912" align="right" alt="Under Guidance" /></h4>
 <p>
 Developing end-to-end multimodal architectures fusing facial visual cues with physiological signals for continuous human stress assessment.<br/>
 <i>Research conducted under the guidance of:</i> <b>Dr. Asit Barman</b> (2026 – Present).
@@ -134,7 +133,7 @@ Developing end-to-end multimodal architectures fusing facial visual cues with ph
 
 ---
 
-### 📊 GitHub Statistics
+### <img src="./assets/icons/chart.svg" width="20" height="20" valign="middle" /> GitHub Statistics
 
 <table width="100%">
   <tr>
@@ -153,13 +152,13 @@ Developing end-to-end multimodal architectures fusing facial visual cues with ph
 
 ---
 
-### 🌿 Little Things About Me
+### <img src="./assets/icons/heart.svg" width="20" height="20" valign="middle" /> Little Things About Me
 
 <table width="100%">
 <tr>
 <td width="100%" valign="top">
 
-<h4>🌿 <i>Currently Exploring</i></h4>
+<h4><img src="./assets/icons/compass.svg" width="18" height="18" valign="middle" /> &nbsp;<i>Currently Exploring</i></h4>
 <p>
 <img src="https://img.shields.io/badge/Deep_Learning-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Deep Learning" />
 <img src="https://img.shields.io/badge/Computer_Vision-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Computer Vision" />
@@ -171,7 +170,7 @@ Developing end-to-end multimodal architectures fusing facial visual cues with ph
 
 <br/>
 
-<h4>🏆 <i>Achievements & Milestones</i></h4>
+<h4><img src="./assets/icons/award.svg" width="18" height="18" valign="middle" /> &nbsp;<i>Achievements & Milestones</i></h4>
 <p>
       • <b>Smart India Hackathon (SIH 2025)</b> — 2nd Runner-Up<br/>
       • <b>SIH 2026</b> — Internal Round Finalist<br/>
@@ -180,12 +179,12 @@ Developing end-to-end multimodal architectures fusing facial visual cues with ph
 
 <br/>
 
-<h4>☕ <i>Beyond Code & Hobbies</i></h4>
+<h4><img src="./assets/icons/coffee.svg" width="18" height="18" valign="middle" /> &nbsp;<i>Beyond Code & Hobbies</i></h4>
 <p>
-    📖 <b>Reading</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    📝 <b>Journaling</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🎨 <b>Designing (Canva)</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🎧 <b>Music & Lofi</b>
+    <img src="./assets/icons/book.svg" width="15" height="15" valign="middle" /> <b>Reading</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./assets/icons/feather.svg" width="15" height="15" valign="middle" /> <b>Journaling</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./assets/icons/palette.svg" width="15" height="15" valign="middle" /> <b>Designing (Canva)</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./assets/icons/headphones.svg" width="15" height="15" valign="middle" /> <b>Music & Lofi</b>
 </p>
 
 <img src="./assets/spacer.png" width="1000" height="1" alt="" />
