@@ -82,7 +82,7 @@ Currently exploring new possibilities through research, hands-on projects, and h
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="48%" valign="top">
       <h4>🔬 Research & Ongoing Work</h4>
       <ul>
         <li>🟡 <b>KMU-FED</b> — Facial emotion & stress detection <i>(Ongoing)</i></li>
@@ -90,9 +90,13 @@ Currently exploring new possibilities through research, hands-on projects, and h
         <li>🟡 <b>Stress Detection</b> — Multimodal research <i>(Under Dr. Asit Barman, 2026 – Present)</i></li>
       </ul>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="52%" align="center" valign="top">
       <a href="https://github.com/poulamikundu123">
-        <img src="https://streak-stats.demolab.com/?user=poulamikundu123&theme=dark&background=0D1912&border=233829&stroke=233829&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8E5DC&dates=A0B2A6" width="100%" alt="Poulami's GitHub Stats" />
+        <img src="https://streak-stats.vercel.app/?user=poulamikundu123&theme=dark&background=0D1912&border=233829&stroke=233829&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8E5DC&dates=A0B2A6" width="100%" alt="Poulami's GitHub Streak & Total Contributions" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/poulamikundu123">
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=poulamikundu123&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1912&title_color=D4AF37&text_color=E8E5DC&icon_color=D4AF37&border_color=233829" width="100%" alt="Poulami's Live GitHub Stats" />
       </a>
     </td>
   </tr>
