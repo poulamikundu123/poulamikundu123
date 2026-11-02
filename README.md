@@ -108,6 +108,39 @@ Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, comp
 
 ### 🍃 Little Things About Me
 
-<p align="center">
-  <img src="./assets/little_things_card.png" width="100%" alt="Little Things About Me" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top" style="padding: 16px;">
+      <img align="right" width="280" src="./assets/girl_avatar_transparent.png" alt="Poulami" />
+      
+      <h4>🍃 <i>Currently Exploring</i></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Deep_Learning-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Deep Learning" />
+        <img src="https://img.shields.io/badge/Computer_Vision-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Computer Vision" />
+        <img src="https://img.shields.io/badge/LLMs_%26_GenAI-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="LLMs" />
+        <img src="https://img.shields.io/badge/Full--Stack_Dev-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Full Stack" />
+      </p>
+
+      <br/>
+
+      <h4>🏆 <i>Achievements & Milestones</i></h4>
+      <p>
+        🟢 &nbsp;<b>Smart India Hackathon (SIH 2025)</b> — 2nd Runner-Up<br/>
+        🟢 &nbsp;<b>SIH 2026</b> — Internal Round Finalist<br/>
+        🟢 &nbsp;<b>Completed GenAI Specialization</b>
+      </p>
+
+      <br/>
+
+      <h4>☕ <i>Beyond Code & Hobbies</i></h4>
+      <p>
+        📖 &nbsp;<b>Reading</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        📝 &nbsp;<b>Journaling</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        🎨 &nbsp;<b>Designing (Canva)</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        🎧 &nbsp;<b>Music & Lofi</b>
+      </p>
+      
+      <img src="./assets/spacer.png" width="1000" height="1" alt="" />
+    </td>
+  </tr>
+</table>
