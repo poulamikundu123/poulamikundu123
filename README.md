@@ -78,23 +78,64 @@ Currently exploring new possibilities through research, hands-on projects, and h
 
 ---
 
-### 🔬 Research & Ongoing Work &nbsp;&nbsp;|&nbsp;&nbsp; 📊 Live GitHub Statistics
+### 🔬 Research & Ongoing Work
+
+<table width="100%">
+<tr>
+<td width="100%">
+<h4>🌿 <b>KMU-FED</b> &nbsp;·&nbsp; <i>Facial Emotion & Cognitive Stress Detection</i> <img src="https://img.shields.io/badge/Status-Active_Research-D4AF37?style=flat-square&color=16281D&labelColor=0D1912" align="right" alt="Active Research" /></h4>
+<p>
+Investigating subtle facial cue dynamics and micro-expressions under cognitive load for non-invasive stress detection and affective classification.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Computer_Vision-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/Affective_Computing-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Affective Computing" />
+<img src="https://img.shields.io/badge/PyTorch-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="PyTorch" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="100%">
+<h4>🌿 <b>RAF-DB</b> &nbsp;·&nbsp; <i>In-The-Wild Facial Expression Recognition</i> <img src="https://img.shields.io/badge/Status-Active_Research-D4AF37?style=flat-square&color=16281D&labelColor=0D1912" align="right" alt="Active Research" /></h4>
+<p>
+Designing and evaluating a customized 4-layer Convolutional Neural Network (CNN) architecture optimized for robust feature extraction and emotion classification under real-world occlusions and pose variations.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Deep_Learning-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Deep Learning" />
+<img src="https://img.shields.io/badge/CNN_Architecture-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="CNN Architecture" />
+<img src="https://img.shields.io/badge/Emotion_AI-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Emotion AI" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="100%">
+<h4>🌿 <b>Multimodal Stress Detection</b> &nbsp;·&nbsp; <i>Physiological & Behavioral Signal Fusion</i> <img src="https://img.shields.io/badge/Status-Under_Guidance-D4AF37?style=flat-square&color=16281D&labelColor=0D1912" align="right" alt="Under Guidance" /></h4>
+<p>
+Developing end-to-end multimodal architectures fusing facial visual cues with physiological signals for continuous human stress assessment.<br/>
+<i>Research conducted under the guidance of:</i> <b>Dr. Asit Barman</b> (2026 – Present).
+</p>
+<p>
+<img src="https://img.shields.io/badge/Multimodal_Fusion-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Multimodal Fusion" />
+<img src="https://img.shields.io/badge/Stress_Analysis-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Stress Analysis" />
+<img src="https://img.shields.io/badge/Healthcare_AI-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Healthcare AI" />
+</p>
+<img src="./assets/spacer.png" width="1000" height="1" alt="" />
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Live GitHub Statistics
 
 <table width="100%">
   <tr>
-    <td width="48%" valign="top">
-      <h4>🔬 Research & Ongoing Work</h4>
-      <ul>
-        <li>🟡 <b>KMU-FED</b> — Facial emotion & stress detection <i>(Ongoing)</i></li>
-        <li>🟡 <b>RAF-DB</b> — Emotion recognition with 4-layer CNN <i>(Ongoing)</i></li>
-        <li>🟡 <b>Stress Detection</b> — Multimodal research <i>(Under Dr. Asit Barman, 2026 – Present)</i></li>
-      </ul>
-    </td>
-    <td width="52%" align="center" valign="top">
+    <td width="50%" align="center" valign="middle">
       <a href="https://github.com/poulamikundu123">
         <img src="https://streak-stats.vercel.app/?user=poulamikundu123&theme=dark&background=0D1912&border=233829&stroke=233829&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8E5DC&dates=A0B2A6" width="100%" alt="Poulami's GitHub Streak & Total Contributions" />
       </a>
-      <br/><br/>
+    </td>
+    <td width="50%" align="center" valign="middle">
       <a href="https://github.com/poulamikundu123">
         <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=poulamikundu123&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1912&title_color=D4AF37&text_color=E8E5DC&icon_color=D4AF37&border_color=233829" width="100%" alt="Poulami's Live GitHub Stats" />
       </a>
