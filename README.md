@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/dino_header.gif" alt="Google Dino Runner" width="100%" style="max-width: 100%;height: 200px; image-rendering: pixelated; display: block;">
+  <img src="./assets/dino_header.gif" alt="Google Dino Runner" width="100%" style="max-width: 100%;height: 250px; image-rendering: pixelated; display: block;">
 </p>
 
 ## <img src="./assets/icons/sprout.svg" width="22" height="22" valign="middle" /> About Me
