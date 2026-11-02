@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header_banner.png" alt="Welcome to my Digital Garden" width="100%">
+  <img src="./assets/dino_header.gif" alt="Google Dino Runner" width="100%">
 </p>
 
 ### 🌿 About Me
