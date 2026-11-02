@@ -124,21 +124,21 @@ Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, comp
 
 <br/>
 
-<h4>🏆 <i>Achievements & Milestones</i></h4>
+<h4>🏆 <i>  Achievements & Milestones</i></h4>
 <p>
-• <b>Smart India Hackathon (SIH 2025)</b> — 2nd Runner-Up<br/>
-• <b>SIH 2026</b> — Internal Round Finalist<br/>
-• <b>Completed GenAI Specialization</b>
+      • <b>Smart India Hackathon (SIH 2025)</b> — 2nd Runner-Up<br/>
+      • <b>SIH 2026</b> — Internal Round Finalist<br/>
+      • <b>Completed GenAI Specialization</b>
 </p>
 
 <br/>
 
 <h4>☕ <i>Beyond Code & Hobbies</i></h4>
 <p>
-📖 <b>Reading</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-📝 <b>Journaling</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🎨 <b>Designing (Canva)</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🎧 <b>Music & Lofi</b>
+    📖 <b>Reading</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    📝 <b>Journaling</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    🎨 <b>Designing (Canva)</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    🎧 <b>Music & Lofi</b>
 </p>
 
 <img src="./assets/spacer.png" width="1000" height="1" alt="" />
