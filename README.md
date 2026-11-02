@@ -111,7 +111,6 @@ Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, comp
 <table width="100%">
 <tr>
 <td width="100%" valign="top">
-<img align="right" width="280" src="./assets/girl_avatar_transparent.png" alt="Poulami" />
 
 <h4>🌿 <i>Currently Exploring</i></h4>
 <p>
@@ -120,6 +119,8 @@ Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, comp
 <img src="https://img.shields.io/badge/LLMs_%26_GenAI-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="LLMs" />
 <img src="https://img.shields.io/badge/Full--Stack_Dev-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Full Stack" />
 </p>
+
+<img align="right" width="270" src="./assets/girl_avatar_transparent.png" alt="Poulami" />
 
 <br/>
 
