@@ -133,7 +133,7 @@ Developing end-to-end multimodal architectures fusing facial visual cues with ph
 
 ---
 
-### 📊 Live GitHub Statistics
+### 📊 GitHub Statistics
 
 <table width="100%">
   <tr>
