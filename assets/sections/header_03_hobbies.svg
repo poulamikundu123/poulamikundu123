@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="36" viewBox="0 0 800 36" fill="none">
+  <rect x="1" y="2" width="32" height="32" rx="8" fill="#15251B" stroke="#30363D" stroke-width="1.2"/>
+  <g transform="translate(17, 18) scale(0.65)" stroke="#899B79" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-10 8c2.5-1.5 5.5-1.5 10 0v-16c-4.5-1.5-7.5-1.5-10 0zM10 8c-2.5-1.5-5.5-1.5-10 0v-16c4.5-1.5 7.5-1.5 10 0z"/>
+  </g>
+  <text x="46" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" font-style="italic" fill="#E6EDF3">Beyond Code &amp; Hobbies</text>
+  <line x1="248" y1="18" x2="760" y2="18" stroke="#30363D" stroke-width="1"/>
+  <text x="795" y="23" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#899B79">03</text>
+</svg>

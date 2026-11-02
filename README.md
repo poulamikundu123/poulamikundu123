@@ -152,42 +152,44 @@ Developing end-to-end multimodal architectures fusing facial visual cues with ph
 
 ---
 
-### <img src="./assets/icons/heart.svg" width="20" height="20" valign="middle" /> Little Things About Me
+<img src="./assets/sections/header_01_exploring.svg" width="100%" alt="Currently Exploring" />
+
+<p align="left">
+  <img src="./assets/pills/tag_deep_learning.svg" height="34" alt="Deep Learning" /> &nbsp;
+  <img src="./assets/pills/tag_computer_vision.svg" height="34" alt="Computer Vision" /> &nbsp;
+  <img src="./assets/pills/tag_llms_genai.svg" height="34" alt="LLMs & GenAI" /> &nbsp;
+  <img src="./assets/pills/tag_fullstack.svg" height="34" alt="Full-Stack Development" />
+</p>
+
+<br/>
+
+<img src="./assets/sections/header_02_achievements.svg" width="100%" alt="Achievements & Milestones" />
 
 <table width="100%">
-<tr>
-<td width="100%" valign="top">
-
-<h4><img src="./assets/icons/compass.svg" width="18" height="18" valign="middle" /> &nbsp;<i>Currently Exploring</i></h4>
-<p>
-<img src="https://img.shields.io/badge/Deep_Learning-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Deep Learning" />
-<img src="https://img.shields.io/badge/Computer_Vision-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Computer Vision" />
-<img src="https://img.shields.io/badge/LLMs_%26_GenAI-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="LLMs" />
-<img src="https://img.shields.io/badge/Full--Stack_Dev-0D1912?style=flat-square&logoColor=D4AF37&color=16281D" alt="Full Stack" />
-</p>
-
-<img align="right" width="270" src="./assets/girl_avatar_transparent.png" alt="Poulami" />
-
-<br/>
-
-<h4><img src="./assets/icons/award.svg" width="18" height="18" valign="middle" /> &nbsp;<i>Achievements & Milestones</i></h4>
-<p>
-      • <b>Smart India Hackathon (SIH 2025)</b> — 2nd Runner-Up<br/>
-      • <b>SIH 2026</b> — Internal Round Finalist<br/>
-      • <b>Completed GenAI Specialization</b>
-</p>
-
-<br/>
-
-<h4><img src="./assets/icons/coffee.svg" width="18" height="18" valign="middle" /> &nbsp;<i>Beyond Code & Hobbies</i></h4>
-<p>
-    <img src="./assets/icons/book.svg" width="15" height="15" valign="middle" /> <b>Reading</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./assets/icons/feather.svg" width="15" height="15" valign="middle" /> <b>Journaling</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./assets/icons/palette.svg" width="15" height="15" valign="middle" /> <b>Designing (Canva)</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./assets/icons/headphones.svg" width="15" height="15" valign="middle" /> <b>Music & Lofi</b>
-</p>
-
-<img src="./assets/spacer.png" width="1000" height="1" alt="" />
-</td>
-</tr>
+  <tr>
+    <td width="100%">
+      <img src="./assets/icons/num_01.svg" height="15" valign="middle" alt="01" /> &nbsp;&nbsp; <b>Smart India Hackathon (SIH 2025)</b> <img align="right" src="./assets/icons/status_runner_up.svg" height="14" alt="2nd Runner-Up" />
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <img src="./assets/icons/num_02.svg" height="15" valign="middle" alt="02" /> &nbsp;&nbsp; <b>SIH 2026</b> <img align="right" src="./assets/icons/status_finalist.svg" height="14" alt="Internal Round Finalist" />
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <img src="./assets/icons/num_03.svg" height="15" valign="middle" alt="03" /> &nbsp;&nbsp; <b>Completed GenAI Specialization</b>
+    </td>
+  </tr>
 </table>
+
+<br/>
+
+<img src="./assets/sections/header_03_hobbies.svg" width="100%" alt="Beyond Code & Hobbies" />
+
+<p align="left">
+  <img src="./assets/pills/hobby_reading.svg" height="32" alt="Reading" /> &nbsp;
+  <img src="./assets/pills/hobby_journaling.svg" height="32" alt="Journaling" /> &nbsp;
+  <img src="./assets/pills/hobby_designing.svg" height="32" alt="Designing (Canva)" /> &nbsp;
+  <img src="./assets/pills/hobby_music.svg" height="32" alt="Music & Lofi" />
+</p>
