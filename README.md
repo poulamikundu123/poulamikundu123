@@ -10,19 +10,19 @@ Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, comp
 ### ⚔️ My Toolbox
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-0E1B13?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0E1B13?style=for-the-badge&logo=c%2B%2B&logoColor=D4AF37" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-0E1B13?style=for-the-badge&logo=javascript&logoColor=D4AF37" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-0E1B13?style=for-the-badge&logo=react&logoColor=D4AF37" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0E1B13?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-0E1B13?style=for-the-badge&logo=fastapi&logoColor=D4AF37" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-0D1912?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1912?style=for-the-badge&logo=c%2B%2B&logoColor=D4AF37" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1912?style=for-the-badge&logo=javascript&logoColor=D4AF37" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0D1912?style=for-the-badge&logo=react&logoColor=D4AF37" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0D1912?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1912?style=for-the-badge&logo=fastapi&logoColor=D4AF37" alt="FastAPI" />
   <br/>
-  <img src="https://img.shields.io/badge/PyTorch-0E1B13?style=for-the-badge&logo=pytorch&logoColor=D4AF37" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-0E1B13?style=for-the-badge&logo=tensorflow&logoColor=D4AF37" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/XGBoost-0E1B13?style=for-the-badge&logo=xgboost&logoColor=D4AF37" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/SQLite-0E1B13?style=for-the-badge&logo=sqlite&logoColor=D4AF37" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Tailwind-0E1B13?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-0E1B13?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Git & GitHub" />
+  <img src="https://img.shields.io/badge/PyTorch-0D1912?style=for-the-badge&logo=pytorch&logoColor=D4AF37" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-0D1912?style=for-the-badge&logo=tensorflow&logoColor=D4AF37" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/XGBoost-0D1912?style=for-the-badge&logo=xgboost&logoColor=D4AF37" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/SQLite-0D1912?style=for-the-badge&logo=sqlite&logoColor=D4AF37" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Tailwind-0D1912?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-0D1912?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Git & GitHub" />
 </p>
 
 ---
@@ -31,51 +31,100 @@ Hi, I'm **Poulami**! A 3rd-year CSE undergraduate passionate about **AI/ML, comp
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/PoulamiKundu/GyanBridge">
-        <img src="./assets/project_gyanbridge.png" width="100%" alt="GyanBridge" />
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/poulamikundu123/BHOOMI-SETU">
+        <img src="./assets/banner_bhoomi.jpg" width="100%" alt="BHOOMI-SETU" />
       </a>
+      <br/><br/>
+      <h3 align="center"><b><a href="https://github.com/poulamikundu123/BHOOMI-SETU" style="color: #D4AF37; text-decoration: none;">🌱 BHOOMI-SETU</a></b></h3>
+      <p align="center">
+        Smart agricultural & land portal bridging rural farmers with digitized records.<br/>
+        Uses AI-driven analytics to optimize crop health and land resource allocation.
+      </p>
+      <p align="center">
+        <a href="https://github.com/poulamikundu123/BHOOMI-SETU">
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-D4AF37?style=for-the-badge&logo=github&logoColor=000000" alt="View Repository" />
+        </a>
+      </p>
     </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/PoulamiKundu/Airline-Delay-Intelligence">
-        <img src="./assets/project_airline.png" width="100%" alt="Airline Delay Intelligence" />
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/poulamikundu123/GyanBridge">
+        <img src="./assets/banner_gyanbridge.jpg" width="100%" alt="GyanBridge" />
       </a>
+      <br/><br/>
+      <h3 align="center"><b><a href="https://github.com/poulamikundu123/GyanBridge" style="color: #D4AF37; text-decoration: none;">🌉 GyanBridge</a></b></h3>
+      <p align="center">
+        Skill mapping and career placement portal tailored for AYUSH medical students.<br/>
+        Built for Smart India Hackathon featuring automated opportunity matching.
+      </p>
+      <p align="center">
+        <a href="https://github.com/poulamikundu123/GyanBridge">
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-D4AF37?style=for-the-badge&logo=github&logoColor=000000" alt="View Repository" />
+        </a>
+      </p>
     </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/PoulamiKundu/AQI-Health-Predictor">
-        <img src="./assets/project_aqi.png" width="100%" alt="AQI & Health Predictor" />
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/poulamikundu123/hospital-hostage">
+        <img src="./assets/banner_hospital.jpg" width="100%" alt="hospital-hostage" />
       </a>
+      <br/><br/>
+      <h3 align="center"><b><a href="https://github.com/poulamikundu123/hospital-hostage" style="color: #D4AF37; text-decoration: none;">🏥 hospital-hostage</a></b></h3>
+      <p align="center">
+        Healthcare vulnerability scanner monitoring critical hospital network security.<br/>
+        Provides automated incident detection to prevent emergency medical system lockouts.
+      </p>
+      <p align="center">
+        <a href="https://github.com/poulamikundu123/hospital-hostage">
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-D4AF37?style=for-the-badge&logo=github&logoColor=000000" alt="View Repository" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🔬 Research & Ongoing Work &nbsp;&nbsp;|&nbsp;&nbsp; 📊 GitHub Statistics
+### 🔬 Research & Ongoing Work &nbsp;&nbsp;|&nbsp;&nbsp; 📊 Live GitHub Statistics
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="./assets/research_timeline.png" width="100%" alt="Research & Ongoing Work" />
+    <td width="50%" valign="top">
+      <h4>🔬 Research & Ongoing Work</h4>
+      <ul>
+        <li>🟡 <b>KMU-FED</b> — Facial emotion & stress detection <i>(Ongoing)</i></li>
+        <li>🟡 <b>RAF-DB</b> — Emotion recognition with 4-layer CNN <i>(Ongoing)</i></li>
+        <li>🟡 <b>Stress Detection</b> — Multimodal research <i>(Under Dr. Asit Barman, 2026 – Present)</i></li>
+      </ul>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="./assets/github_stats_card.png" width="100%" alt="GitHub Statistics" />
+      <a href="https://github.com/poulamikundu123">
+        <img src="https://streak-stats.demolab.com/?user=poulamikundu123&theme=dark&background=0D1912&border=233829&stroke=233829&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8E5DC&dates=A0B2A6" width="100%" alt="Poulami's GitHub Stats" />
+      </a>
     </td>
   </tr>
 </table>
-
----
-
-### 📅 Contribution Graph
-
-<p align="center">
-  <img src="./assets/contribution_graph_card.png" width="100%" alt="Contribution Graph" />
-</p>
 
 ---
 
 ### 🍃 Little Things About Me
 
-<p align="center">
-  <img src="./assets/little_things_card.png" width="100%" alt="Little Things About Me" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4>✨ Currently Exploring</h4>
+      <p>Deep Learning • Computer Vision<br/>LLMs • Full-Stack Development</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>🏆 Achievements</h4>
+      <p>
+        • SIH 2025 – 2nd Runner-Up<br/>
+        • SIH 2026 – Internal Round<br/>
+        • Completed GenAI Course
+      </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>☕ Hobbies</h4>
+      <p>Reading • Journaling<br/>Designing (Canva) • Music</p>
+    </td>
+  </tr>
+</table>
